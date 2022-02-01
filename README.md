@@ -7,7 +7,7 @@
 
 1. Run `yarn` or `npm install`.
 2. Create an account [here](https://imgflip.com/signup).
-3. Rename the file `.env.example` to `.env` and fill in the empty fields: password and user name with those created previously.
+3. Go to `.env` file and fill in the empty fields: password and user name with those created previously.
 4. Run `yarn start` or `npm run start` and enjoy!
 
 ## Available Scripts
